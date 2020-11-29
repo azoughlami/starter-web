@@ -23,3 +23,7 @@ This is a web project, deployment  can be on any web server or even local file s
 
 ## How to contribute
 
+
+### Copyright
+
+2014 git.training
